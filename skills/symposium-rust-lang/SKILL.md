@@ -1,8 +1,10 @@
 ---
 name: symposium-rust-lang
-description: "Use when asking about Rust code style or best practices. Keywords: naming, formatting, comment, clippy, rustfmt, lint, code style, best practice, P.NAM, G.FMT, code review, naming convention, variable naming, function naming, type naming.
+description: "Use when asking about Rust code style or best practices. Keywords: naming, formatting, comment, clippy, rustfmt, lint, code style, best practice, P.NAM, G.FMT, code review, naming convention, variable naming, function naming, type naming."
 user-invocable: false
 ---
+
+> **Source**: Based on [rust-skills](https://github.com/actionbook/rust-skills/blob/main/skills/coding-guidelines/SKILL.md)
 
 # Rust Coding Guidelines (50 Core Rules)
 
